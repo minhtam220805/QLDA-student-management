@@ -1,1 +1,2 @@
-deletegit add .
+moi sua xong
+conflict 
